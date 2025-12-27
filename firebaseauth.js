@@ -34,12 +34,13 @@ import {
 // Initialize Firebase
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDou7GDvqdibgfEdr53wgSSgd_QNaclhQc",
-    authDomain: "lost-found-8d42f.firebaseapp.com",
-    projectId: "lost-found-8d42f",
-    storageBucket: "lost-found-8d42f.firebasestorage.app",
-    messagingSenderId: "123518611655",
-    appId: "1:123518611655:web:4ad9cda0e3b62c575d0ee2"
+    apiKey: "AIzaSyCmyC9BaGtMQQOFOGap4yXJFW2fmffXzqY",
+    authDomain: "losting-de2b6.firebaseapp.com",
+    projectId: "losting-de2b6",
+    storageBucket: "losting-de2b6.firebasestorage.app",
+    messagingSenderId: "1040474458368",
+    appId: "1:1040474458368:web:c89f926df239a27a3e0be5"
+    
 };
 
 // Initialize Firebase
